@@ -66,7 +66,6 @@ Books are stored in a structure `BookShop` with fields:
 ## ✅ Author
 
 - **Developer:** Muhammad Umar  
-- **Course:** BS CS – PMAS UIIT  
-- **Semester:** 3rd  
+- **Course:** BS CS – PMAS UIIT,Rawalpindi    
 - **Project:** Console-Based Book Management System (C++)
 
